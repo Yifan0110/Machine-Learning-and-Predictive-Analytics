@@ -5,5 +5,6 @@ This repository contains materials for the MSCA 31009 Machine Learning & Predict
 
 ## Output
 A streamlit Application was made to help people recognize the toxicity of mushrooms and help reduce accidents.
-<img width="500" alt="image" src="https://github.com/Yifan0110/Mushroom-Toxicity-Identification-Machine-Learning/assets/160541759/a134bca9-0e00-4d9e-9991-65567080ced2">
+
+<img width="1432" alt="image" src="https://github.com/Yifan0110/Mushroom-Toxicity-Identification-Machine-Learning/assets/160541759/2e4d37db-e8b6-40fe-81e8-12d806b6d184">
 
